@@ -1,0 +1,25 @@
+{
+  "name": "node-cluster-seed",
+  "version": "1.0.0",
+  "description": "A sample node-cluster tryout seed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happyvig/node-cluster-seed.git"
+  },
+  "keywords": [
+    "node-cluster"
+  ],
+  "author": "Vignesh KUmar <vkumar2@logitech.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happyvig/node-cluster-seed/issues"
+  },
+  "homepage": "https://github.com/happyvig/node-cluster-seed#readme",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
